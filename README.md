@@ -7,3 +7,7 @@
 Hasil Enskripsi Password Pengguna pada Database
 
 ![db](database.jpg)
+
+Kunci yang digunakan untuk Enskripsi Password 'robi'
+
+![enskrip](enc.jpg)
